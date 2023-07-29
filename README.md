@@ -1,4 +1,4 @@
-# tsunami_gauge_optimizaiton
+# tsunami_gauges_optimization
 Python codes for optimizing the configuration of tsunami gauges and reconstructing wave height distribution. 
 
 ```
